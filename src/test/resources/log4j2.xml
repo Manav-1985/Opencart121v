@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    
+    <Properties>
+        <Property name="basePath">C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\logs</Property><!-- log file to save logs it means logs file in the project basepath just a variable name for file location -->
+    </Properties>
+
+    <Appenders>
+
+        <!-- Console Appender -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <!-- Rolling File Appender -->
+        <RollingFile name="File" fileName="${basePath}/automation.log"
+                     filePattern="${basePath}/automation-%d{yyyy-MM-dd}-%i.log.gz">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            
+                <SizeBasedTriggeringPolicy size="5000"/>
+            
+        </RollingFile>
+
+    </Appenders>
+
+    <Loggers>
+        <Root level="DEBUG"><!-- here  you can use multiple log levels -->
+        
+        <!--  which one to chose for appenders console or the rolling file-->
+
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+
+</Configuration>

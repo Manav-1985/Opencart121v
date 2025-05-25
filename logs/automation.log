@@ -1,0 +1,51 @@
+03:44:29.610 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:44:29.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:44:29.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:44:29.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:44:29.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+03:44:29.637 [main] INFO  testCases.TC003_LoginDDT - ***Starting_TC003_LoginDDT_Test***
+03:44:30.500 [main] INFO  testCases.TC003_LoginDDT - ***Finished_TC003_LoginDDT_Test***
+03:44:30.503 [main] INFO  testCases.TC003_LoginDDT - ***Starting_TC003_LoginDDT_Test***
+03:44:41.049 [main] INFO  testCases.TC003_LoginDDT - ***Finished_TC003_LoginDDT_Test***
+03:44:41.049 [main] INFO  testCases.TC003_LoginDDT - ***Starting_TC003_LoginDDT_Test***
+03:44:51.440 [main] INFO  testCases.TC003_LoginDDT - ***Finished_TC003_LoginDDT_Test***
+03:44:51.440 [main] INFO  testCases.TC003_LoginDDT - ***Starting_TC003_LoginDDT_Test***
+03:47:41.278 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\grouping.xml"
+03:47:41.484 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\grouping.xml
+
+03:47:53.083 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest *** 
+03:47:53.316 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account link
+03:47:53.568 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+03:47:53.569 [main] INFO  testCases.TC001_AccountRegistrationTest - providing registration details
+03:47:56.235 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+03:48:07.502 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest****
+03:53:35.664 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\grouping.xml"
+03:53:35.853 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\grouping.xml
+
+03:53:47.415 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest *** 
+03:53:47.680 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account link
+03:53:47.913 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+03:53:47.915 [main] INFO  testCases.TC001_AccountRegistrationTest - providing registration details
+03:53:50.597 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+03:54:01.873 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest****
+15:40:38.643 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\grouping.xml"
+15:40:38.847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\grouping.xml
+
+15:41:45.085 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\grouping.xml"
+15:41:45.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\grouping.xml
+
+15:41:58.926 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Started TC001_AccountRegistrationTest *** 
+15:41:59.218 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account link
+15:41:59.695 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+15:41:59.697 [main] INFO  testCases.TC001_AccountRegistrationTest - providing registration details
+15:42:02.591 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:42:13.776 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest****
+15:43:57.019 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\test-output\testng-failed.xml"
+15:43:57.190 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\manav\OneDrive\Desktop\seleniumwebdriver\Opencart121v\test-output\testng-failed.xml
+
+15:44:08.723 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest****
